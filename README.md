@@ -1,3 +1,3 @@
 # Innovative
-begner
+beginner
 Author: Amul
